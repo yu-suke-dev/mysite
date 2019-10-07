@@ -1,6 +1,6 @@
 [build]
   command = "hugo"
-  publish = "dist"
+  publish = "public"
 
 [build.environment]
   HUGO_THEME = "hermit"
