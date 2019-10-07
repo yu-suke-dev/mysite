@@ -1,94 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on yu-suke-dev</title>
+    <link>trusting-hugle-51af8d.netlify.com/tags/</link>
+    <description>Recent content in Tags on yu-suke-dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="trusting-hugle-51af8d.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>http://localhost:1313/tags/demo/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/demo/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>http://localhost:1313/tags/image/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/image/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>http://localhost:1313/tags/typography/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/typography/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://localhost:1313/tags/development/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/development/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http://localhost:1313/tags/templates/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/templates/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
+      <link>trusting-hugle-51af8d.netlify.com/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <guid>trusting-hugle-51af8d.netlify.com/tags/themes/</guid>
       <description></description>
     </item>
     
