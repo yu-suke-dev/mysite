@@ -3,103 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/image/</loc>
+    <loc>/tags/image/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/the-figure-shortcode/</loc>
+    <loc>/posts/the-figure-shortcode/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/post-with-featured-image/</loc>
+    <loc>/posts/post-with-featured-image/</loc>
     <lastmod>2018-10-01T16:15:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/typography/</loc>
+    <loc>/tags/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/typography/</loc>
+    <loc>/posts/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/creating-a-new-theme/</loc>
+    <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/about-hugo/</loc>
+    <loc>/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/goisforlovers/</loc>
+    <loc>/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/hugoisforlovers/</loc>
+    <loc>/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>trusting-hugle-51af8d.netlify.com/posts/migrate-from-jekyll/</loc>
+    <loc>/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/10.html/</loc>
   </url>
   
 </urlset>
