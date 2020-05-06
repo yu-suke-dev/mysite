@@ -3,4 +3,4 @@
   publish = "public"
 
 [build.environment]
-  HUGO_THEME = "hermit"
+  HUGO_THEME = "github-style"
