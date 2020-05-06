@@ -8,4 +8,5 @@ published: true
 number: 5
 ---
 
-# testです
+# test
+テスト投稿です
